@@ -16,6 +16,7 @@
 
   html {
       scroll-behavior: smooth;
+      max-height: 100%;
   }
 
   body {
@@ -275,6 +276,7 @@
           flex-direction: column;
           text-align: center;
       }
+
   }
 
   .services .services-content .srv i {
